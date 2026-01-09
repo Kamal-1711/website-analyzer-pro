@@ -64,7 +64,7 @@
    ```bash
    npm run dev
    ```
-4. Open [http://localhost:3000](http://localhost:3000) to see the app.
+4. Open https://website-analyzer-pro.vercel.app/ to see the app.
 
 ---
 
